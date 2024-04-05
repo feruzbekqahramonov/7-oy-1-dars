@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+
+.button {
+  border: 1px solid #079211;
+  padding: 12px 15px;
+  color: aliceblue;
+  background-color: #079211;
+  border-radius: 5px;
+}
+
+.cont {
+  margin-top: 100px;
+}
+
+.card {
+  border-bottom: 5px solid #079211;
+}
